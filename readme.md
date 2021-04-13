@@ -1,1 +1,1 @@
-Visualization of typical food items on a geographical map by displaying the images of the foods on their actual geographical positions on the map
+Visualization of typical food items on a geographical map by web scraping wikipedia page of typical food and use it to display it on interactive map
