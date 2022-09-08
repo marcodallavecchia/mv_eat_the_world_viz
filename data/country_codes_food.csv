@@ -5,7 +5,7 @@ ALB,Albania,Tavë kosi
 DZA,Algeria,Couscous
 ASM,American Samoa,Palusami
 AND,Andorra,Escudella i carn d'olla
-AGO,Angola,Poulet à la moambé
+AGO,Angola,Moamba de galinha
 AIA,Anguilla,
 ATA,Antarctica,
 ATG,Antigua & Barbuda,
@@ -14,12 +14,12 @@ ARM,Armenia,Harisa
 ABW,Aruba,
 AUS,Australia,Roast lamb
 AUT,Austria,Wiener schnitzel
-AZE,Azerbaijan,Tolma
+AZE,Azerbaijan,Dolma
 BHS,Bahamas,Crack conch with peas and rice
 BHR,Bahrain,Kabsa
 BGD,Bangladesh,Rice and fish (particularly ilish)
 BRB,Barbados,Cou-cou and flying fish
-BLR,Belarus,
+BLR,Belarus,Draniki
 BEL,Belgium,Frites
 BLZ,Belize,
 BEN,Benin,
@@ -34,34 +34,34 @@ BRA,Brazil,Feijoada
 IOT,British Indian Ocean Territory,
 VGB,British Virgin Islands,
 BRN,Brunei,Ambuyat
-BGR,Bulgaria,
+BGR,Bulgaria,Shopska salad
 BFA,Burkina Faso,
-BDI,Burundi,
+BDI,Burundi,Boko Boko
 CPV,Cape Verde,
-KHM,Cambodia,Amok trey
-CMR,Cameroon,Ndole
+KHM,Cambodia,Fish amok
+CMR,Cameroon,Ndolé
 CAN,Canada,Poutine
 CYM,Cayman Islands,
 CAF,Central African Republic,
 TCD,Chad,
 CHL,Chile,Empanada
-CHN,China,
-HKG,Hong Kong,Dim sum
-MAC,Macau,Minchee
+CHN,China,Peking duck
+HKG,Hong Kong,
+MAC,Macau,
 CXR,Christmas Island,
 CCK,Cocos (Keeling) Islands,
 COL,Colombia,Ajiaco
-COM,Comoros,Langouste a la vanille
+COM,Comoros,Langouste a la vanille (Vanilla Lobster)
 COG,Congo - Brazzaville,
 COK,Cook Islands,
-CRI,Costa Rica,Gallo Pinto
-HRV,Croatia,Zagorski Štrukli
+CRI,Costa Rica,Casado Chifrijo (chicharrón or deep fried seasoned pork pieces) served with beans usually red or black beans (frijoles in spanish there comes the name Chifrijo; CHI from Chicharrón and FRIJO from frijoles) white rice and pico de gallo. Optionally it may be served with avocado and/or corn chips Gallo Pinto
+HRV,Croatia,Zagorski štrukli
 CUB,Cuba,Ropa vieja
 CUW,Curaçao,
 CYP,Cyprus,Souvla
 CZE,Czechia,
 CIV,Côte d’Ivoire,
-PRK,North Korea,Raengmyeon
+PRK,North Korea,
 COD,Congo - Kinshasa,
 DNK,Denmark,Stegt Flæsk
 DJI,Djibouti,
@@ -77,8 +77,8 @@ SWZ,Eswatini,
 ETH,Ethiopia,Doro wat with injera
 FLK,Falkland Islands,
 FRO,Faroe Islands,
-FJI,Fiji,
-FIN,Finland,Karjalanpaisti
+FJI,Fiji,Fiji Kokoda (Fijian Ceviche)
+FIN,Finland,rye bread
 FRA,France,Pot-au-feu
 GUF,French Guiana,
 PYF,French Polynesia,
@@ -86,7 +86,7 @@ ATF,French Southern Territories,
 GAB,Gabon,Poulet Nyembwe
 GMB,Gambia,
 GEO,Georgia,Khachapuri
-DEU,Germany,Sauerbraten
+DEU,Germany,Schnitzel Schweinshaxe Bratwurst Sauerbraten
 GHA,Ghana,
 GIB,Gibraltar,
 GRC,Greece,Horiatiki
@@ -98,11 +98,11 @@ GTM,Guatemala,
 GGY,Guernsey,
 GIN,Guinea,
 GNB,Guinea-Bissau,
-GUY,Guyana,Pepperpot Cook-up rice and Chicken curry
-HTI,Haiti,
+GUY,Guyana,Pepperpot and Chicken curry
+HTI,Haiti,Griot Soup joumou
 HMD,Heard & McDonald Islands,
 VAT,Vatican City,
-HND,Honduras,
+HND,Honduras,Baleada
 HUN,Hungary,Gulyás
 ISL,Iceland,Lamb
 IND,India,Due to its diverse culture India does not have a specific national dish. There were rumours that the government of India was planning on designating khichdi as a national dish but it was later denied by the government.
@@ -111,7 +111,7 @@ IRN,Iran,Abgoosht
 IRQ,Iraq,Masgouf
 IRL,Ireland,Breakfast roll
 IMN,Isle of Man,
-ISR,Israel,Falafel ( served in pita)
+ISR,Israel,Falafel (served in pita)
 ITA,Italy,Pasta
 JAM,Jamaica,Ackee and Saltfish Jerk chicken
 JPN,Japan,Sushi
@@ -146,7 +146,7 @@ MEX,Mexico,Taco
 FSM,Micronesia,
 MCO,Monaco,Barbagiuan
 MNG,Mongolia,
-MNE,Montenegro,
+MNE,Montenegro,Njeguški pršut
 MSR,Montserrat,
 MAR,Morocco,Couscous
 MOZ,Mozambique,
@@ -157,15 +157,15 @@ NPL,Nepal,Dal bhat
 NLD,Netherlands,Stamppot
 NCL,New Caledonia,
 NZL,New Zealand,Meat pie
-NIC,Nicaragua,Nacatamal
-NER,Niger,
+NIC,Nicaragua,Gallo Pinto Nacatamal
+NER,Niger,Dambou
 NGA,Nigeria,Tuwo shinkafa
 NIU,Niue,
 NFK,Norfolk Island,
 MNP,Northern Mariana Islands,Kelaguen
 NOR,Norway,Fårikål
 OMN,Oman,Shuwa
-PAK,Pakistan,Nihari
+PAK,Pakistan,Biryani Nihari
 PLW,Palau,
 PAN,Panama,Sancocho
 PNG,Papua New Guinea,
@@ -175,9 +175,10 @@ PHL,Philippines,Adobo
 PCN,Pitcairn Islands,
 POL,Poland,Bigos
 PRT,Portugal,Bacalhau
+PRI,Puerto Rico,Arroz con gandules Mofongo
 PRI,Puerto Rico,Lechon
 QAT,Qatar,Machboos
-KOR,South Korea,Kimchi
+KOR,South Korea,
 MDA,Moldova,
 ROU,Romania,Mămăligă
 RUS,Russia,Borscht
@@ -204,7 +205,7 @@ SXM,Sint Maarten,
 SVK,Slovakia,Bryndzové halušky
 SVN,Slovenia,Buckwheat dumplings
 SLB,Solomon Islands,
-SOM,Somalia,
+SOM,Somalia,Bariis Iskukaris
 ZAF,South Africa,Bobotie
 SGS,South Georgia & South Sandwich Islands,
 SSD,South Sudan,
@@ -219,7 +220,7 @@ CHE,Switzerland,Cervelat
 SYR,Syria,Kibbeh
 TJK,Tajikistan,Osh Palov
 THA,Thailand,Pad Thai Tom yum
-MKD,North Macedonia,
+MKD,North Macedonia,Tavče Gravče
 TLS,Timor-Leste,
 TGO,Togo,
 TKL,Tokelau,
@@ -234,7 +235,7 @@ UGA,Uganda,Matooke
 UKR,Ukraine,Borscht
 ARE,United Arab Emirates,Harees
 GBR,UK,
-TZA,Tanzania,Ugali
+TZA,Tanzania,Chipsi mayai
 UMI,U.S. Outlying Islands,
 VIR,U.S. Virgin Islands,
 USA,US,
