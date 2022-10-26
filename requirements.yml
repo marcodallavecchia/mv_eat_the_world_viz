@@ -1,0 +1,10 @@
+name: eat-the-world-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - pandas
+  - plotly
+prefix: /home/dallavem/.conda/envs/eat-the-world-env
